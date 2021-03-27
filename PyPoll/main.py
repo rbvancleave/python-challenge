@@ -105,16 +105,3 @@ with open(election_data_csv) as csv_file:
         f.write('-------------------------\n')
         f.write(f'Winner: {winner}\n')
         f.write('-------------------------\n')
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
